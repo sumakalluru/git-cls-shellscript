@@ -11,4 +11,6 @@ cat /etc/passwd | tail -5
 echo "ur username : "
 id -un
 
+echo "This line is added by root
+"
 #end
